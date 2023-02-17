@@ -1,0 +1,13 @@
+name: Navigation
+version: '${version}'
+main: com.tom.navi.Main
+api-version: 1.16
+description: Navigation
+commands:
+  navi:
+  navigation:
+  setpunktkoordinate:
+  setStrecke:
+  removeStrecke:
+  showStrecken:
+  setOrt:
